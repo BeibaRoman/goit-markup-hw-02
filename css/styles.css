@@ -198,7 +198,7 @@ body {
 }
 
 /* page portfolio */
-/* list of button */
+/* section button */
 
 .project-button {
   font-family: inherit;
@@ -219,7 +219,9 @@ body {
   background-color: var(--accent-color);
 }
 
-.project-title {
+/* section work */
+
+.work-title {
   font-family: inherit;
   font-size: 18px;
   line-height: calc(36 / 18);
@@ -227,7 +229,7 @@ body {
   color: var(--second-text-color);
 }
 
-.project-text {
+.work-text {
   font-family: inherit;
   font-size: 16px;
   line-height: calc(30 / 16);
