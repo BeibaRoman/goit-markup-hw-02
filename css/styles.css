@@ -159,7 +159,7 @@ body {
   font-family: "Raleway";
   font-size: 26px;
   line-height: calc(31 / 26);
-  letter-spacing: inherit
+  letter-spacing: inherit;
   color: var(--third-text-color);
 }
 .footer-location {
