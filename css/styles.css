@@ -46,7 +46,7 @@ body {
 .header-nav-link:focus {
   color: var(--accent-color);
 }
-.current{
+.current {
   color: var(--accent-color);
 }
 
@@ -134,7 +134,6 @@ body {
   background-color: #f5f4fa;
 }
 
-
 .team-name {
   font-weight: 500;
   font-size: 16px;
@@ -182,7 +181,6 @@ body {
   color: rgba(255, 255, 255, 0.6);
 }
 
-
 .footer-contact:hover,
 .footer-contact:focus {
   color: var(--accent-color);
@@ -209,7 +207,7 @@ body {
   color: var(--third-text-color);
   background-color: var(--accent-color);
 }
-.current-button{
+.current-button {
   color: var(--third-text-color);
   background-color: var(--accent-color);
 }
